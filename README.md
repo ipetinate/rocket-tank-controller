@@ -1,4 +1,4 @@
-# rocket-tank-controller
+# Rocket Tank Controller
 Aplicativo Android para controle do carrinho de esteira `RoboCore Rocket Tank` ou outro dispositivo que implemente a mesma interface de comunicação do controle.
 
 > Descrição
@@ -24,6 +24,7 @@ Aplicativo Android para controle do carrinho de esteira `RoboCore Rocket Tank` o
 - Acionamento da garra [`futuramente`]
 - Área para visualização de câmera [`futuramente`]
 - Buzina [`futuramente`]
+- Interface para controle via Módulo WiFi (Lolin NodeMCU CH340G) [`futuramente`]
 
 ---
 
