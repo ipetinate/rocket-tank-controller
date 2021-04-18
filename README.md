@@ -32,6 +32,6 @@ Aplicativo Android para controle do carrinho de esteira `RoboCore Rocket Tank` o
 
 - Esse aplicativo implementa a nova API de Composição de UI do Android, o Jetpack Compose, e tem como especificações e requisitos mínimos os itens abaixo:
 
-| Plataforma | Linguagem | UI Composer      | Versão Mínima Requerida      |
-| -----------|-----------|------------------|------------------------------|
-| Android    | Kotlin    | Jetpack Compose  | Android 5.0 (Lollipop) API21 |
+| Plataforma | Linguagem | UI Composer      | Versão Mínima Requerida        |
+| -----------|-----------|------------------|--------------------------------|
+| Android    | Kotlin    | Jetpack Compose  | Android 5.0 (Lollipop) [API21] |
