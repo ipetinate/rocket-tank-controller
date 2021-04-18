@@ -17,7 +17,7 @@ Aplicativo Android para controle do carrinho de esteira `RoboCore Rocket Tank` o
 
 > Funcionalidades
 
-- Controles Direcionais e de Aceleração/Frenagem
+- Controles Direcionais e de Aceleração/Frenagem [`em implementação`]
 - Painel para Leitura de Sensores: umidade, proximidade e luz [`futuramente`]
 - Acionamento de Lanterna (Led branco) [`futuramente`]
 - Setas indicadores (Leds amarelos: esquerda e direita) [`futuramente`]
